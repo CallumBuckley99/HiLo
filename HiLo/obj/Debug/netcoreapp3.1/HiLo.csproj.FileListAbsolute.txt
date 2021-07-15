@@ -1,0 +1,13 @@
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\bin\Debug\netcoreapp3.1\HiLo.exe
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\bin\Debug\netcoreapp3.1\HiLo.deps.json
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\bin\Debug\netcoreapp3.1\HiLo.runtimeconfig.json
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\bin\Debug\netcoreapp3.1\HiLo.runtimeconfig.dev.json
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\bin\Debug\netcoreapp3.1\HiLo.dll
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\bin\Debug\netcoreapp3.1\HiLo.pdb
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\obj\Debug\netcoreapp3.1\HiLo.csproj.AssemblyReference.cache
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\obj\Debug\netcoreapp3.1\HiLo.AssemblyInfoInputs.cache
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\obj\Debug\netcoreapp3.1\HiLo.AssemblyInfo.cs
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\obj\Debug\netcoreapp3.1\HiLo.csproj.CoreCompileInputs.cache
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\obj\Debug\netcoreapp3.1\HiLo.dll
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\obj\Debug\netcoreapp3.1\HiLo.pdb
+C:\Users\Client 6.2021 SSD\source\repos\HiLo\obj\Debug\netcoreapp3.1\HiLo.genruntimeconfig.cache
